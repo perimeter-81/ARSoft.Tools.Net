@@ -9,7 +9,7 @@
     <Authors>Alexander Reinert</Authors>
     <PackageId>ARSoft.Tools.Net</PackageId>
     <PackageVersion>2.2.11.0</PackageVersion>
-    <PackageProjectUrl>https://github.com/alexreinert/ARSoft.Tools.Net</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/safervpn/ARSoft.Tools.Net</PackageProjectUrl>
     <PackageLicense>LICENSE</PackageLicense>
     <Title>SpeedTest.Net</Title>
     <LangVersion>8</LangVersion>
